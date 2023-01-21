@@ -1,1 +1,4 @@
 # Real-Time-Emotion-Detection-Using-CNN
+In this study, we describe a novel method for recognizing emotions on human faces by employing a Convolutional Neural Network (CNN). Our model is trained using a dataset of images that have been annotated with one of five fundamental emotions: surprise, happy, sad, angry, as well as neutral. To optimize a pre-trained model for the specific goal of emotion recognition, we employed transfer learning, which increased the model's precision.The model's capacity to recognize emotions in real time is what makes this approach significant.
+The dataset that we obtained from Kaggle is now included here. 30219 pictures included in the dataset were split into 24176 training images and 6043 testing images.
+Our model's accuracy was 0.66797, which indicates that it correctly classified 66% of the test images.
